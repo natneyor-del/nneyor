@@ -1,0 +1,1 @@
+-- Q: How many card transactions has each person made?
